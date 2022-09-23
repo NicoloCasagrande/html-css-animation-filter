@@ -68,7 +68,7 @@
     left: 10%;
     background: #f5f5f5;
     width: 60px;
-    height: 30px;
+    height: 20px;
 }
 .ex-12-bottom-white, .ex-13-bottom-white {
     position: absolute;
@@ -76,7 +76,7 @@
     right: 20%;
     background: #f5f5f5;
     width: 60px;
-    height: 30px;
+    height: 20px;
 }
 
 .ex-1-square:hover{
@@ -187,7 +187,7 @@
 
 .ex-13-button:hover .ex-13-top-white{
     animation-name: sopra-completo;
-    animation-duration: 2s;
+    animation-duration: 3s;
     transition-property: linear;
 }
 
@@ -197,18 +197,18 @@
         top: -10px;
     }
     20% {
-        left: calc(100% - 60px);
+        left: calc(100% - 50px);
         top: -10px;
     }
     35%{
-        left: calc(100% - 30px);
+        left: calc(100% - 10px);
         top:100%;
     }
-    75%{
+    70%{
         left: -10px;
         top: 100%;
     }
-    90%{
+    80%{
         left: -10px;
         top: -10px;
     }
@@ -220,7 +220,7 @@
 
 .ex-13-button:hover .ex-13-bottom-white{
     animation-name: sotto-completo;
-    animation-duration: 2s;
+    animation-duration: 3s;
     transition-property: linear;
 }
 
@@ -230,18 +230,18 @@
         bottom: -10px;
     }
     20% {
-        right: calc(100% - 60px);
+        right: calc(100% - 50px);
         bottom: -10px;
     }
     35%{
-        right: calc(100% - 30px);
+        right: calc(100% - 50px);
         bottom:100%;
     }
-    75%{
+    70%{
         right: -10px;
         bottom: 100%;
     }
-    90%{
+    80%{
         right: -10px;
         bottom: -10px;
     }
