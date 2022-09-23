@@ -133,7 +133,7 @@
 
 .ex-11-icon:hover {
     animation-name: rotate3-4;
-    animation-duration: 3s;
+    animation-duration: 2s;
     transition-property: linear;
 }
 
@@ -151,7 +151,7 @@
 
 .ex-12-button:hover .ex-12-top-white{
     animation-name: spostaSopra;
-    animation-duration: 3s;
+    animation-duration: 2s;
     transition-property: linear;
 }
 
@@ -169,7 +169,7 @@
 
 .ex-12-button:hover .ex-12-bottom-white{
     animation-name: spostaSotto;
-    animation-duration: 3s;
+    animation-duration: 2s;
     transition-property: linear;
 }
 
@@ -187,7 +187,7 @@
 
 .ex-13-button:hover .ex-13-top-white{
     animation-name: sopra-completo;
-    animation-duration: 3s;
+    animation-duration: 2s;
     transition-property: linear;
 }
 
@@ -220,7 +220,7 @@
 
 .ex-13-button:hover .ex-13-bottom-white{
     animation-name: sotto-completo;
-    animation-duration: 3s;
+    animation-duration: 2s;
     transition-property: linear;
 }
 
